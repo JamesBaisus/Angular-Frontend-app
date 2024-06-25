@@ -1,0 +1,33 @@
+.listingCon {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(73, 72, 72);
+  border-radius: 12px;
+  padding: 4rem;
+  color: white;
+}
+
+.imageCon {
+  width: 80%;
+}
+
+.imageCon img {
+  width: 100%;
+  border-radius: 12px;
+}
+
+.listingInfo {
+  width: 100%;
+  padding: 2rem;
+}
+
+.listingInfo h1 {
+  margin-bottom: 1rem;
+}
+
+.listingInfo div {
+  display: inline-block;
+  margin: 2rem 3rem;
+  vertical-align: top;
+  line-height: 2;
+}
